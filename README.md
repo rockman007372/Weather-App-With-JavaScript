@@ -4,7 +4,4 @@ I followed this [tutorial](https://www.youtube.com/watch?v=iILFBGm_I9M&t=507s) t
 
 ## Demo
 
-[label](images/Demo.mp4)
-
-![Demo](https://gifs.com/gif/demo-for-weather-app-r2lMyW)
-
+[![Demo](https://j.gifs.com/r2lMyW.gif)]()
